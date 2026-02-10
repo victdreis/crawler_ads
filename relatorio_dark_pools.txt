@@ -1,0 +1,1102 @@
+======================================================================
+RELATÓRIO DE DARK POOLS - BRASIL
+======================================================================
+
+MARCAS IDENTIFICADAS NOS ANÚNCIOS
+----------------------------------------------------------------------
+
+Sites Legítimos:
+  C&A, Samsung, LG, Apple, Tim, Vivo, Claro, Oi, Caixa, Inter
+
+Sites de Desinformação:
+  LG, Apple, Tim, Vivo, Oi, Inter
+
+⚠️ MARCAS COMPARTILHADAS (Dark Pooling):
+  • LG
+  • Apple
+  • Tim
+  • Vivo
+  • Oi
+  • Inter
+
+Estas marcas financiam inadvertidamente fake news.
+
+======================================================================
+
+
+REDE: 33across.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 0013300001hSPhhAAG
+  Sites Legítimos:
+    - ig.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+REDE: 9dotsmedia.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 3145
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: ad.plus
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 22896142137
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: adform.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 2218
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: adipolo.com
+Dark Pools: 4
+----------------------------------------------------------------------
+
+Seller ID: 22887974830
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22915330089
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22785811991
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 90643844
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: adipolosolutions.com
+Dark Pools: 4
+----------------------------------------------------------------------
+
+Seller ID: 22887974830
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22915330089
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22785811991
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 90643844
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: admanmedia.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 2083
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: admixer.net
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: d23623c9-fb6d-45a2-9377-90f490525317
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: adyoulike.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 83d15ef72d387a1e60e5a1399a2b0c03
+  Sites Legítimos:
+    - r7.com
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+Seller ID: c1cb20fa2bbc39a8f2ec564ac0c157f7
+  Sites Legítimos:
+    - ig.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+REDE: amxrtb.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 105199423
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 105199704
+  Sites Legítimos:
+    - ig.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+    - conexaopolitica.com.br
+
+REDE: aniview.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 644a2ec0bbb56c05910637d4
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: appnexus.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 9818
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 16912
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+REDE: aps.amazon.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: d4004b5f-4fb6-4be2-82ae-0e36b8f52c12
+  Sites Legítimos:
+    - terra.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 5d8ed25e-57cc-441a-b62a-127b34faae4e
+  Sites Legítimos:
+    - terra.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+Seller ID: 1ad7261b-91ea-4b6f-b9e9-b83522205b75
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: brid.tv
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 184
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: chocolateplatform.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 15364
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: conversantmedia.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 100141
+  Sites Legítimos:
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+REDE: copper6.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 761479
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22785811991
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: criteo.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: B-061291
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: B-068833
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: B-072395
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: datawrkz.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 2100
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: e-planning.net
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: a57c4c4fa787d9b5
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: freewheel.tv
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: 1003361
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 1076049
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 1076065
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: gannett.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 22662187259
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: google.com
+Dark Pools: 9
+----------------------------------------------------------------------
+
+Seller ID: pub-8417126197537762
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-5767825948286332
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-3166299510873585
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-8584156348842922
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-2441454515104767
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-2942876710357394
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-1222034086244490
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-3990748024667386
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: pub-5372661266361105
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: improvedigital.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 1680
+  Sites Legítimos:
+    - r7.com
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+REDE: indexexchange.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 183188
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: lijit.com
+Dark Pools: 8
+----------------------------------------------------------------------
+
+Seller ID: 397546
+  Sites Legítimos:
+    - uol.com.br
+    - r7.com
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+Seller ID: 258942
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 258942-eb
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 349013
+  Sites Legítimos:
+    - ig.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+    - conexaopolitica.com.br
+
+Seller ID: 349013-eb
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 224984
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 275753
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 275753-eb
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: media.net
+Dark Pools: 4
+----------------------------------------------------------------------
+
+Seller ID: 8CUHCR0TP
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 8CUV1R5H1
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 8CUTP57S4
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 8CUTQ396X
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: mgid.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 822784
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: nobid.io
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 22853635813
+  Sites Legítimos:
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: onetag.com
+Dark Pools: 6
+----------------------------------------------------------------------
+
+Seller ID: 75601b04186d260
+  Sites Legítimos:
+    - uol.com.br
+    - r7.com
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+Seller ID: 61d88450bdb25bc
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+Seller ID: 7cd9d7c7c13ff36
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+    - conexaopolitica.com.br
+
+Seller ID: 7be5f802b0aef8e
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 7be5f802b0aef8e-OB
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 8e1b1cddf4eb779
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: opamarketplace.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: 22887974830
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22915330089
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 90643844
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: outbrain.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 0050d93e93e9679030e1d7f6d6e8b44d42
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: pgamssp.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 6425ca042cf1d9a1a10a7955
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: playstream.media
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 989
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: pmbmonetize.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: 22887974830
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22915330089
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 90643844
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: pubmatic.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 157743
+  Sites Legítimos:
+    - uol.com.br
+    - r7.com
+    - terra.com.br
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+Seller ID: 95054
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+REDE: readwhere.digital
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: rd891fiofzktecyodvubtsyqhutsincexqe63e23569bf264
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: richaudience.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: s83mRZozwb
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: ringier.rs
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 20221205191915
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: risecodes.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 6878c6a1d8a38d000182aeba
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: rubiconproject.com
+Dark Pools: 7
+----------------------------------------------------------------------
+
+Seller ID: 17280
+  Sites Legítimos:
+    - uol.com.br
+    - r7.com
+    - terra.com.br
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+Seller ID: 13510
+  Sites Legítimos:
+    - r7.com
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22884
+  Sites Legítimos:
+    - terra.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+Seller ID: 25512
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 24872
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 24874
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 11106
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: rwadx.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: rw209mtasduinzgsxqpriqyfejxvmubnylu63e2356c0a23b
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: screencore.io
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 292
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: sharethrough.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: Q9IzHdvp
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+    - jornaldacidadeonline.com.br
+
+Seller ID: nREOtldZ
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: aEDv2gnF
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: smartadline.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: 22887974830
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 22915330089
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 90643844
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: smartadserver.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 3050
+  Sites Legítimos:
+    - uol.com.br
+    - r7.com
+    - terra.com.br
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+Seller ID: 4164
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: smartclip.net
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 10870
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: spotim.market
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: sp_AYL2022
+  Sites Legítimos:
+    - r7.com
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: sp_browsi
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: target-video.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 184
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 210
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: themediagrid.com
+Dark Pools: 6
+----------------------------------------------------------------------
+
+Seller ID: 8RYHC4
+  Sites Legítimos:
+    - uol.com.br
+    - terra.com.br
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: DJQVCM
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: YZ2I83
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: DAQTOP
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: D9CE4A
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: HLDOIR
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: triplelift.com
+Dark Pools: 5
+----------------------------------------------------------------------
+
+Seller ID: 10985
+  Sites Legítimos:
+    - uol.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 10985-EB
+  Sites Legítimos:
+    - uol.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 10389
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 10389-EB
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 14190-EB
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: truvid.com
+Dark Pools: 2
+----------------------------------------------------------------------
+
+Seller ID: 343
+  Sites Legítimos:
+    - uol.com.br
+    - ig.com.br
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 2076
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: truvidplayer.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 2076
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: vdopia.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 15364
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: video.unrulymedia.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 2439829435
+  Sites Legítimos:
+    - terra.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: vidoomy.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 57021
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: xandr.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 4009
+  Sites Legítimos:
+    - uol.com.br
+    - r7.com
+    - terra.com.br
+  Sites Suspeitos:
+    - conexaopolitica.com.br
+
+REDE: xapads.com
+Dark Pools: 3
+----------------------------------------------------------------------
+
+Seller ID: 158389
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 193353
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+Seller ID: 211793
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: yahoo.com
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 59988
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
+
+REDE: yieldlab.net
+Dark Pools: 1
+----------------------------------------------------------------------
+
+Seller ID: 6378054
+  Sites Legítimos:
+    - ig.com.br
+  Sites Suspeitos:
+    - jornaldacidadeonline.com.br
