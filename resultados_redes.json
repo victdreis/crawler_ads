@@ -1,0 +1,263 @@
+{
+  "grafo": {
+    "n_sites": 25,
+    "n_ssps": 125,
+    "n_arestas": 539,
+    "densidade": 0.17248
+  },
+  "vulnerabilidade": {
+    "completo": {},
+    "top_10": []
+  },
+  "estrategias": {
+    "clusters": {
+      "cluster_0": {
+        "n_sites": 13,
+        "direct_medio": 13.0,
+        "reseller_medio": 48.23076923076923,
+        "categorias": {
+          "FC": 9,
+          "MS": 4
+        },
+        "sites": [
+          "Pensa Brasil",
+          "Plantão Brasil",
+          "Folha Política",
+          "Conexão Política",
+          "Ceticismo Político"
+        ]
+      },
+      "cluster_1": {
+        "n_sites": 3,
+        "direct_medio": 237.66666666666666,
+        "reseller_medio": 1288.0,
+        "categorias": {
+          "FC": 1,
+          "MS": 2
+        },
+        "sites": [
+          "Jornal da Cidade Online",
+          "Terra",
+          "IG"
+        ]
+      },
+      "cluster_2": {
+        "n_sites": 7,
+        "direct_medio": 108.28571428571429,
+        "reseller_medio": 470.0,
+        "categorias": {
+          "FC": 1,
+          "HP": 3,
+          "MS": 3
+        },
+        "sites": [
+          "Pleno News",
+          "Terra Brasil Notícias",
+          "Diário do Poder",
+          "Jovem Pan",
+          "R7"
+        ]
+      },
+      "cluster_3": {
+        "n_sites": 2,
+        "direct_medio": 452.5,
+        "reseller_medio": 992.0,
+        "categorias": {
+          "FC": 1,
+          "MS": 1
+        },
+        "sites": [
+          "Gazeta Brasil",
+          "Globo.com"
+        ]
+      }
+    },
+    "teste_independencia": {
+      "chi2": 11.603327228327231,
+      "p": 0.07142617223284142,
+      "significativo": false
+    }
+  },
+  "brokers": {
+    "top_10": [
+      {
+        "ssp": "lijit.com",
+        "betweenness": 0.017774133351993276,
+        "n_sites_fc": 4,
+        "n_sites_ms": 8,
+        "total_sites": 15,
+        "is_broker": true
+      },
+      {
+        "ssp": "onetag.com",
+        "betweenness": 0.017774133351993276,
+        "n_sites_fc": 4,
+        "n_sites_ms": 8,
+        "total_sites": 15,
+        "is_broker": true
+      },
+      {
+        "ssp": "adyoulike.com",
+        "betweenness": 0.017551806492221447,
+        "n_sites_fc": 4,
+        "n_sites_ms": 7,
+        "total_sites": 14,
+        "is_broker": true
+      },
+      {
+        "ssp": "pubmatic.com",
+        "betweenness": 0.017021477275934,
+        "n_sites_fc": 4,
+        "n_sites_ms": 8,
+        "total_sites": 15,
+        "is_broker": true
+      },
+      {
+        "ssp": "rubiconproject.com",
+        "betweenness": 0.01599567740240891,
+        "n_sites_fc": 4,
+        "n_sites_ms": 7,
+        "total_sites": 14,
+        "is_broker": true
+      },
+      {
+        "ssp": "google.com",
+        "betweenness": 0.015539821164140622,
+        "n_sites_fc": 2,
+        "n_sites_ms": 9,
+        "total_sites": 13,
+        "is_broker": true
+      },
+      {
+        "ssp": "smartadserver.com",
+        "betweenness": 0.014147605350722304,
+        "n_sites_fc": 4,
+        "n_sites_ms": 7,
+        "total_sites": 14,
+        "is_broker": true
+      },
+      {
+        "ssp": "districtm.io",
+        "betweenness": 0.01269726101940867,
+        "n_sites_fc": 1,
+        "n_sites_ms": 1,
+        "total_sites": 2,
+        "is_broker": false
+      },
+      {
+        "ssp": "xandr.com",
+        "betweenness": 0.012577850367375869,
+        "n_sites_fc": 4,
+        "n_sites_ms": 6,
+        "total_sites": 13,
+        "is_broker": true
+      },
+      {
+        "ssp": "richaudience.com",
+        "betweenness": 0.011769428892162788,
+        "n_sites_fc": 3,
+        "n_sites_ms": 6,
+        "total_sites": 10,
+        "is_broker": true
+      }
+    ],
+    "n_brokers_cross_editorial": 9
+  },
+  "integracao": {
+    "assortativity": -0.07173241652584354,
+    "modularidade": 0.030736871481223366,
+    "n_comunidades": 10,
+    "comunidades": [
+      {
+        "id": 1,
+        "composicao": {
+          "FC": 2,
+          "HP": 2,
+          "MS": 5
+        },
+        "tipo": "mista"
+      },
+      {
+        "id": 2,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 3,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 9,
+        "composicao": {
+          "FC": 3,
+          "HP": 1,
+          "MS": 4
+        },
+        "tipo": "mista"
+      },
+      {
+        "id": 7,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 0,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 4,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 5,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 6,
+        "composicao": {
+          "FC": 0,
+          "HP": 0,
+          "MS": 1
+        },
+        "tipo": "pura"
+      },
+      {
+        "id": 8,
+        "composicao": {
+          "FC": 1,
+          "HP": 0,
+          "MS": 0
+        },
+        "tipo": "pura"
+      }
+    ]
+  }
+}

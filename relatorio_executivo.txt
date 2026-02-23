@@ -1,0 +1,54 @@
+================================================================================
+RELATÓRIO EXECUTIVO - ANÁLISE DARK POOLING
+================================================================================
+
+AMOSTRA:
+  Sites analisados: 42
+  Com ads.txt válido: 25 (59.5%)
+  Sellers DIRECT únicos: 1,812
+  Sellers RESELLER únicos: 3,869
+
+DARK POOLS:
+  Total identificados: 406
+    misto_FC_MS: 184
+    homogeneo_MS: 83
+    homogeneo_FC: 53
+    misto_FC_HP_MS: 51
+    misto_HP_MS: 23
+    misto_FC_HP: 12
+
+ESTATÍSTICAS POR CATEGORIA:
+
+  FC (n=12):
+    Sellers DIRECT: med=1, média=79.8
+    Exposição: med=0.0%, média=17.3%
+    Opacidade: med=0.0%, média=32.1%
+
+  HP (n=3):
+    Sellers DIRECT: med=107, média=82.0
+    Exposição: med=44.4%, média=43.1%
+    Opacidade: med=85.3%, média=85.2%
+
+  MS (n=10):
+    Sellers DIRECT: med=94, média=134.1
+    Exposição: med=52.0%, média=42.6%
+    Opacidade: med=75.0%, média=70.8%
+
+
+TESTES ESTATÍSTICOS:
+  exposicao: p=0.0258 (significativo)
+  opacidade: p=0.0258 (significativo)
+  sellers_entre_categorias: p=0.0501 (não significativo)
+
+
+TOP 10 SELLERS MAIS COMPARTILHADOS:
+   1. xandr.com#4009                                     (17 sites)
+   2. smartadserver.com#3050                             (16 sites)
+   3. pubmatic.com#157743                                (16 sites)
+   4. rubiconproject.com#17280                           (16 sites)
+   5. onetag.com#75601b04186d260                         (15 sites)
+   6. lijit.com#258942                                   (14 sites)
+   7. lijit.com#397546                                   (14 sites)
+   8. adyoulike.com#83d15ef72d387a1e60e5a1399a2b0c03     (14 sites)
+   9. improvedigital.com#1680                            (12 sites)
+  10. media.net#8CUHCR0TP                                (11 sites)
